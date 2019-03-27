@@ -251,7 +251,7 @@ blockquote {
     line-height: 25px;
 }
 .title {
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 300;
     text-transform: capitalize;
 }
@@ -277,15 +277,15 @@ blockquote {
     color: #cccccc;
 }
 .gradient-text {
-    background: -webkit-linear-gradient(left, #399bff 30%, rgba(238, 113, 249, .9) 65%);
-    background: -moz-linear-gradient(left, #399bff 30%, rgba(238, 113, 249, .9) 65%);
-    background: linear-gradient(left, #399bff 30%, rgba(238, 113, 249, .9) 65%);
+    background: -webkit-linear-gradient(left, #399bff 30%, rgba(0, 255, 221, 0.9) 65%);
+    background: -moz-linear-gradient(left, #399bff 30%, rgba(0, 255, 191, 0.9) 65%);
+    background: linear-gradient(left, #399bff 30%, rgba(0, 255, 191, 0.9) 65%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #399bff;
 }
 p.title-lead {
-    font-size: 15px;
+    font-size: 18px;
 }
 section,
 .section,
@@ -453,13 +453,13 @@ p a:after {
     background: rgb(57, 155, 255);
     /* Old browsers */
     
-    background: -moz-linear-gradient(45deg, rgba(57, 155, 255, 1) 0%, rgba(238, 113, 249, 1) 100%);
+    background: -moz-linear-gradient(45deg, rgb(172, 235, 0) 0%, rgb(187, 17, 82) 100%);
     /* FF3.6-15 */
     
-    background: -webkit-linear-gradient(45deg, rgba(57, 155, 255, 1) 0%, rgba(238, 113, 249, 1) 100%);
+    background: -webkit-linear-gradient(45deg, rgb(172, 235, 0) 0%, rgb(187, 17, 82) 100%);
     /* Chrome10-25,Safari5.1-6 */
     
-    background: linear-gradient(45deg, rgba(57, 155, 255, 1) 0%, rgba(238, 113, 249, 1) 100%);
+    background: linear-gradient(45deg, rgb(172, 235, 0) 0%, rgb(187, 17, 82) 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#399bff', endColorstr='#ee71f9', GradientType=1);
