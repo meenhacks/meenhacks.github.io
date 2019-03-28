@@ -454,13 +454,13 @@ p a:after {
     background: rgb(57, 155, 255);
     /* Old browsers */
     
-    background: -moz-linear-gradient(45deg, rgb(172, 235, 0) 0%, rgb(187, 17, 82) 100%);
+    background: -moz-linear-gradient(45deg, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
     /* FF3.6-15 */
     
-    background: -webkit-linear-gradient(45deg, rgb(172, 235, 0) 0%, rgb(187, 17, 82) 100%);
+    background: -webkit-linear-gradient(45deg, rgb(255, 0, 0) 0%, rgb(0, 255, 170) 100%);
     /* Chrome10-25,Safari5.1-6 */
     
-    background: linear-gradient(45deg, rgb(172, 235, 0) 0%, rgb(187, 17, 82) 100%);
+    background: linear-gradient(45deg, rgb(255, 0, 0) 0%, rgb(0,255, 170) 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#399bff', endColorstr='#ee71f9', GradientType=1);
