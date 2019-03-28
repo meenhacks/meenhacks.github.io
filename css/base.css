@@ -451,17 +451,15 @@ a.link:after,
 .but,
 span a:after,
 p a:after {
-    background: rgb(57, 155, 255);
+    /*background: rgb(57, 155, 255);*/
     /* Old browsers */
+    background: #00F260;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
     
-    background: -moz-linear-gradient(45deg, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
-    /* FF3.6-15 */
+
     
-    background: -webkit-linear-gradient(45deg, rgb(255, 0, 0) 0%, rgb(0, 255, 170) 100%);
-    /* Chrome10-25,Safari5.1-6 */
-    
-    background: linear-gradient(45deg, rgb(255, 0, 0) 0%, rgb(0,255, 170) 100%);
-    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#399bff', endColorstr='#ee71f9', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
