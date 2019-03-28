@@ -735,16 +735,17 @@ select.error {
 /* Sponsors section*/
 
 .block-sponsor img {
-
+    
     opacity: .18;
     width: 85%;
 }
 .block-sponsor img:hover {
+    padding-top: 25px;
     opacity: 1.10;
-    transform: scale(2.05);
-    -webkit-transform: scale(2.05);
-    -ms-transform: scale(2.05);
-    -moz-transform: scale(2.05);
+    transform: scale(1.50);
+    -webkit-transform: scale(1.50);
+    -ms-transform: scale(1.50);
+    -moz-transform: scale(1.50);
 }
 
 /* End sponsors section*/
