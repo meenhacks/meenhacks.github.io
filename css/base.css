@@ -149,6 +149,7 @@ a:focus {
     text-decoration: none;
 }
 img {
+    padding-top: 30px;
     display: inline-block;
     vertical-align: middle;
     height: auto;
