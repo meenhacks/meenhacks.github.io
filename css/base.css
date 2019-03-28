@@ -453,9 +453,9 @@ span a:after,
 p a:after {
     /*background: rgb(57, 155, 255);*/
     /* Old browsers */
-    background: #00F260;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to bottom, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #8360c3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2ebf91, #8360c3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     
 
