@@ -278,9 +278,9 @@ blockquote {
     color: #cccccc;
 }
 .gradient-text {
-    background: -webkit-linear-gradient(left, #399bff 30%, rgba(0, 255, 221, 0.9) 65%);
-    background: -moz-linear-gradient(left, #399bff 30%, rgba(0, 255, 191, 0.9) 65%);
-    background: linear-gradient(left, #399bff 30%, rgba(0, 255, 191, 0.9) 65%);
+    background: -webkit-linear-gradient(left, #ee0e98 30%, rgba(0, 255, 221, 0.9) 65%);
+    background: -moz-linear-gradient(left, #ee0e98 30%, rgba(0, 255, 191, 0.9) 65%);
+    background: linear-gradient(left, #ee0e98 30%, rgba(0, 255, 191, 0.9) 65%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #399bff;
