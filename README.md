@@ -1,2 +1,5 @@
-# Something Big   
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bac29eb6-053f-40bf-a686-1ef57acd33fc/deploy-status)](https://app.netlify.com/sites/mehac1/deploys)
+
+# Something Big
+
+This is the Website for Meenachil Hacks, a 36Hour National Level Hackathon which aims to reduce the gap between the Public and the Hacker Community.
+
