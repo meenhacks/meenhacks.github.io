@@ -534,7 +534,7 @@ background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, F
     padding-bottom: 90px !important;
 }
 .pt-100 {
-    padding-top: 100px !important;
+    padding-top: 30px !important;
 }
 .pb-100 {
     padding-bottom: 100px !important;
@@ -573,7 +573,7 @@ background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, F
     padding-top: 200px !important;
 }
 .pb-200 {
-    padding-bottom: 200px !important;
+    padding-bottom: 50px !important;
 }
 .pt-250 {
     padding-top: 250px !important;

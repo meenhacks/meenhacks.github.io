@@ -749,7 +749,10 @@ select.error {
 }
 
 /* End sponsors section*/
-
+.block-club img {
+    opacity: 1.0;
+    width: 85%;
+}
 /* Contact section*/
 
 .block-map {
@@ -1015,7 +1018,7 @@ select.error {
     }
     .location {
         padding-top: 100px !important;
-        padding-bottom: 100px !important;
+        padding-bottom: 0px !important;
     }
     .accom .block-img {
         height: 200px;
@@ -1168,8 +1171,8 @@ select.error {
         width: 100%;
     }
     .location {
-        padding-top: 100px !important;
-        padding-bottom: 100px !important;
+        padding-top: 30px !important;
+        padding-bottom:0px !important;
     }
     .accom .block-img {
         height: 200px;
