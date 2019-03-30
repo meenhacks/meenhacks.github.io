@@ -749,7 +749,10 @@ select.error {
 }
 
 /* End sponsors section*/
-
+.block-club img {
+    opacity: 1.0;
+    width: 85%;
+}
 /* Contact section*/
 
 .block-map {
