@@ -750,9 +750,14 @@ select.error {
 
 /* End sponsors section*/
 .block-club img {
+    height:85%;
     opacity: 1.0;
     width: 85%;
 }
+.block-club-1 img{
+    height:2048;
+    width:1080;
+} 
 /* Contact section*/
 
 .block-map {
