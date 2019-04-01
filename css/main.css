@@ -610,6 +610,19 @@ ul.block-topic li {
     -o-transform: scale(.8);
     padding: 80px 0;
 }
+.block-ticket-small {
+    background: #121212;
+    opacity: 1.0;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    transform: scale(.8);
+    -webkit-transform: scale(.8);
+    -ms-transform: scale(.8);
+    -moz-transform: scale(.8);
+    -o-transform: scale(.8);
+    padding: 30px 0;
+}
 .block-tickets.overlap {
     position: relative;
     left: 150px;
@@ -619,6 +632,7 @@ ul.block-topic li {
     margin-bottom: 10px;
     color: #999999;
 }
+
 .block-ticket:hover,
 .block-ticket.active {
     transform: scale(1);
@@ -647,6 +661,21 @@ ul.block-topic li {
     left: -18px;
     position: absolute;
     top: 20px
+}
+.block-ticket-small .block-price .aca{
+    display: block;
+    font-size: 50px;
+    font-weight:700;
+    position: relative;
+    margin-bottom: 10px;
+}
+.block-ticket-small .block-price .aca1{
+    display: block;
+    font-size: 20px;
+    font-weight: 300;
+    left: -18px;
+    position: relative;
+    top: 10px
 }
 .block-ticket .block-price .block-type {
     display: block;
@@ -750,9 +779,16 @@ select.error {
 
 /* End sponsors section*/
 .block-club img {
-    opacity: 2.0;
+
+    height:85%;
+    opacity: 1.0;
+
     width: 85%;
 }
+.block-club-1 img{
+    height:2048;
+    width:1080;
+} 
 /* Contact section*/
 
 .block-map {
