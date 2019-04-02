@@ -82,22 +82,22 @@
 }
 @keyframes spinner-color {
     0%, 100% {
-        stroke: #399bff;
+        stroke: #ff0000;
     }
     20% {
-        stroke: #ee71f9;
+        stroke: #ffa600;
     }
     40% {
-        stroke: #399bff;
+        stroke: #00ffc8;
     }
     60% {
-        stroke: #ee71f9;
+        stroke: #ff0062;
     }
     80% {
-        stroke: #399bff;
+        stroke: #00ff15;
     }
     100% {
-        stroke: #ee71f9;
+        stroke: #000000;
     }
 }
 @keyframes spinner-dash {
@@ -392,11 +392,11 @@ h1.large {
     content: none;
 }
 .block-speaker .block-img .background-img {
-    filter: grayscale(1);
-    -webkit-filter: grayscale(1);
-    -moz-filter: grayscale(1);
-    -ms-filter: grayscale(1);
-    -o-filter: grayscale(1);
+    filter: grayscale(0.5);
+    -webkit-filter: grayscale(0.5);
+    -moz-filter: grayscale(0.5);
+    -ms-filter: grayscale(0.5);
+    -o-filter: grayscale(0.5);
 }
 .block-speaker .block-img:hover .background-img {
     filter: grayscale(0);
@@ -764,7 +764,6 @@ select.error {
 /* Sponsors section*/
 
 .block-sponsor img {
-
     opacity: .18;
     width: 85%;
 }
