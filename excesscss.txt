@@ -1,9 +1,0 @@
-background: -moz-linear-gradient(45deg, rgb(17,153,142) 0%, rgb(56,239,125) 100%);
-    /* FF3.6-15 */
-    
-    background: -webkit-linear-gradient(45deg, rgb(17,153,142) 0%, rgb(56,239,125) 100%);
-    /* Chrome10-25,Safari5.1-6 */
-    
-    background: linear-gradient(45deg, rgb(17,153,142) 0%, rgb(56,239,125) 100%);
-    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    ---------------------------base.css------gradient-background----------------
