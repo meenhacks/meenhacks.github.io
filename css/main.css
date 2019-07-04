@@ -791,6 +791,16 @@ select.error {
     -ms-transform: scale(1.10);
     -moz-transform: scale(1.10);
 }
+.block-sponsor span{
+	opacity: .18;
+}
+.block-sponsor  span:hover{
+	opacity:1.10;
+	transform:scale(1.10);
+	-webkit-transform: scale(1.10);
+    	-ms-transform: scale(1.10);
+    	-moz-transform: scale(1.10);
+}
 
 /* End sponsors section*/
 .block-club img {
