@@ -8,15 +8,15 @@ These are the Rules for the All the hackathon Events and Related Things
 ----
 3. The Organizers nor Volunteers will not be held Responsible for your Properties. 
 ----
-4. If we find any one Damages a property/equipment of The College, they'll be charged the Price of the Property Damaged this will be non-partial.
+4. If we find any one Damages a property/equipment of The College, they'll be charged the Price of the Property Damagedthis will be non-partial.
 ----
-5. Everyone Attending The Hackathon Has to pay the Fees of Rs.400. This Price is for the Tshirt,Venue Charges, Food Expenses etc...
+5. Everyone Attending The Hackathon Has to pay the Fees of Rs.400.This Price is for the Tshirt,Venue Charges, Food Expenses etc...
 ----
 6. Since this is a 24 Hour hackathon. People are not Expected to Sleep but those who want to Sleep will be given a Bed for naps.
 ----
 7. Everyone attending Should bring their laptops to Hack-on, no laptops or accessories will be provided by the Organizers.
 ----
-8. Those Who want to Hack-on Hardware, they should bring their own Hardwae Equipment. If these components bring about any damage to the venue, They Will be charged for the Damages
+8. Those Who want to Hack-on Hardware, they should bring their own Hardware Equipment. If these components bring about any damage to the venue, They Will be charged for the Damages
 ----
 9. If anyone Uses the Internet Connectivity to Download Films, Pornographic content. They will be disqualified and the consequences will be same as 2.1
 ----
@@ -30,5 +30,7 @@ These are the Rules for the All the hackathon Events and Related Things
 ----
 14. The Certificates will be in Digital Formats and will be emailed to you in 30 Days prior the Event.
 ----
-15. All the Hacks should be either be **openly** available in GitHub or GitLab and should be licensed under MIT/BSD 3-Clause/GPL 3.0/2.0/AGPL Licensing.
+15. Our community strives for innovation. All solutions should be original and Non Derivative.  
+----
+16. All the Hacks should be either be **openly** available in GitHub or GitLab and should be licensed under MIT/BSD 3-Clause/GPL 3.0/2.0/AGPL Licensing.
 ----
