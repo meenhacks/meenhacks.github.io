@@ -3,12 +3,12 @@ These are the Rules for the All the hackathon Events and Related Things
 --------
 1. The Problem Statements will be Given 2 days Ago. A team of 4-5 members are compulsory. 
 -----
-2*. You Should Not Start with the Project Before the Event.
+2 . You Should Not Start with the Project Before the Event.
   - If Found , you will be Disqualified from the Event and will not be eligible for Pizes or Presenting.
 ----
 3. The Organizers nor Volunteers will not be held Responsible for your Properties. 
 ----
-4. If we find any one Damages a property/equipment of The College, they'll be charged the Price of the Property Damagedthis will be non-partial.
+4. If we find any one Damages a property/equipment of The College, they'll be charged the Price of the Property Damaged, this will be non-partial.
 ----
 5. Everyone Attending The Hackathon Has to pay the Fees of Rs.400.This Price is for the Tshirt,Venue Charges, Food Expenses etc...
 ----
@@ -36,3 +36,5 @@ These are the Rules for the All the hackathon Events and Related Things
 ----
 17. Decision of the jury is final.
 ----
+18. Prize is for a Team of 5 if the Team doesn't have  5 Members, the Organizers have full authority to **Cut down the Prize Money**
+---
